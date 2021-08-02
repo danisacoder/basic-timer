@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: pink;
+  text-align: center;
+  font-family: sans-serif;
+
+.heading {
+  padding: 50px;
+}
+
+}
+#timer-num, #timer-title {
+  font-size: 72px;
+  border: 1px solid red;
+}
